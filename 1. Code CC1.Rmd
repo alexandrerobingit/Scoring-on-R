@@ -1,0 +1,4 @@
+rm(list=ls(all=TRUE))
+
+mydata=data.frame(flow=c(10,8,6,7,4,7,5,7,4,3),loan=c(20,22,51,78,34,45,51,43,65,70),
+                  class=c(1,1,1,1,1,2,2,2,2,2))
